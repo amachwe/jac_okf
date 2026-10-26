@@ -1,0 +1,23 @@
+okf_version: "1.0"
+title: "Jac Language: Graph-Native Programming Fundamentals"
+id: jac-language-fundamentals
+language: en
+description: "A self-contained introduction to Jac's graph-native model, object-spatial programming constructs, and practical program design."
+learning_objectives:
+  - "Explain Jac's graph model and distinguish nodes, edges, and walkers."
+  - "Write small Jac programs using declarations, abilities, and entry blocks."
+  - "Build and traverse a typed graph while controlling traversal state."
+  - "Choose appropriate graph representations and avoid common traversal errors."
+contents:
+  - overview.md
+  - lesson.md
+  - exercises.md
+  - solutions.md
+  - references.md
+license: CC-BY-4.0
+keywords:
+  - jac
+  - programming-languages
+  - graph-programming
+  - object-spatial-programming
+  - walkers
